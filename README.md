@@ -11,7 +11,7 @@ Total Records: ~7,000+
 Columns: Title, Type, Country, Genre, Duration, Release Year, and more
 
 🎯 Objectives
-Analyze and visualize Netflix content trends.
+Analyze and visualize Netflix content trends.  
 Provide insights on:
 Content types (Movies vs TV Shows)
 Top contributing genres and countries
