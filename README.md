@@ -1,4 +1,4 @@
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 # Netflix-Data-Analysis-in-Power-BI
