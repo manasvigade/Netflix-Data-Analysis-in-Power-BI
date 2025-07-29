@@ -79,16 +79,9 @@ This project explores content trends across genres, countries, duration, and for
 
 ---
 
-## 📸 Dashboard Preview
-
-![Netflix Power BI Dashboard](images/dashboard.png)  
-*Add your screenshot to the `/images/` folder and replace the path above if needed.*
-
----
-
 ## 📬 Let's Connect
 
 If you liked this project or want to collaborate:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/manasvi-g)  
+- 📧 Email: gademanasvi@gmail.com
 
